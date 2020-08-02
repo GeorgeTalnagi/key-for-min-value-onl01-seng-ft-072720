@@ -5,7 +5,7 @@ def key_for_min_value(name_hash)
   if min_value == nil || value < min_value
     min_value = value 
     new_key = key 
-    return key
+    return key, value 
   end
 end
 end
