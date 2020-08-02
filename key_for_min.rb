@@ -7,5 +7,4 @@ def key_for_min_value(name_hash)
     new_key = key 
   end
 end
-new key 
 end
